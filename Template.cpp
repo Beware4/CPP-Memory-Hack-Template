@@ -12,7 +12,7 @@ int hacking_template()
   if (twin == NULL)
   {
     cout << "ERROR! Window not found!" << endl;
-    hacking_tempalte();
+    hacking_template();
   }
   else
   {
